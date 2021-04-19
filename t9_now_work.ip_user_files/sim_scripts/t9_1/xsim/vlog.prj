@@ -1,0 +1,7 @@
+verilog xil_defaultlib --include "H:/xilinx/Vivado/2020.2/data/xilinx_vip/include" --include "../../../../project_3.gen/sources_1/bd/t9_1/ipshared/ec67/hdl" --include "../../../../project_3.gen/sources_1/bd/t9_1/ipshared/34f8/hdl" \
+"../../../bd/t9_1/ip/t9_1_processing_system7_0_0/sim/t9_1_processing_system7_0_0.v" \
+"../../../bd/t9_1/sim/t9_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
